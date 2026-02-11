@@ -1,0 +1,13 @@
+1.
+-Crecimiento del volumen de datos
+-Necesidad de acceso concurrente
+-Problemas de integridad y redundancia
+-Mayor complejidad en las consultas
+-Necesidad de seguridad y control de acceso
+-Mantenimiento y escalabilidad
+2.
+-Un SGBD relacional es más apropiado cuando:
+-Los datos tienen estructura definida (tablas, filas y columnas).
+-Se requiere integridad referencial (claves primarias y foráneas).
+-Se hacen consultas complejas con SQL.
+-Es importante la consistencia de los datos.
