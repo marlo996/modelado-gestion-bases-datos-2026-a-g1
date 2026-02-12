@@ -1,0 +1,18 @@
+1.Si no definimos bien las claves:
+-Puede haber datos duplicados.
+-Se rompen relaciones entre entidades.
+-Aparecen registros inconsistentes.
+-Corregir después es más difícil y costoso.
+
+2.Ventajas de identificar entidades antes del ER:
+-Mayor claridad del sistema.
+-Menos errores en el diagrama.
+-Mejor definición de relaciones y atributos.
+-Facilita validar el modelo con el usuario.
+
+3.Información crítica que podría faltar:
+-Historial académico y notas.
+-Períodos académicos.
+-Prerrequisitos de cursos.
+-Secciones y horarios.
+-Roles de usuario (admin, docente, estudiante).
